@@ -1,0 +1,16 @@
+Sample Company Handbook (fictional demo content)
+
+IT equipment requests
+Employees who need a laptop or other IT equipment should submit a ticket to the IT service desk. Include the business reason, manager approval, and the date the equipment is needed. The IT team confirms availability and provides collection or delivery instructions.
+
+Password and account security
+Use a unique password for each work account and enable multi-factor authentication wherever available. Never share passwords or one-time codes. Report suspected phishing messages to the security team and do not open unexpected attachments.
+
+Remote work
+Employees working remotely should connect through the company-approved VPN when accessing internal systems. Keep operating systems and security updates current. Do not store company files on personal cloud accounts.
+
+Leave requests
+Submit planned leave requests through the HR portal and wait for manager approval before making non-refundable travel arrangements. For urgent absence, notify your manager as soon as practical.
+
+Incident reporting
+Report lost equipment, suspicious account activity, or accidental disclosure of company information to the IT service desk or security team immediately. Include the approximate time and a short description of what happened.
